@@ -6,3 +6,5 @@ day 1
    - make changes
    - commit 
    - push
+   if it's a first time, generate a token and copy that token and paste it in the code editor 
+
